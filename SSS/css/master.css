@@ -1,0 +1,154 @@
+.Top{
+  margin: 0px;
+}
+
+.Top h1{
+  font-size: 55px;
+  color: #000000;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  border: #0B5345 5px solid;
+  margin: 0px 10% 0px 10%;
+}
+
+.Nav ul{
+  padding: 0px 2% 0px 2%;
+  background-color: #ABB2B9;
+  margin: 3% 30px 3% 35%;
+  font-family: 'Lato', sans-serif;
+  font-size: 35px;
+}
+
+.Nav li {
+  float: left;
+  display: inline-block;
+  text-align: center;
+  border: #0B5345 4px solid;
+  padding: 5px;
+  margin: 10px 2.5% 0px 2.5%;
+  border-radius: 10px;
+  color: #ffffff;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: #000000
+}
+.Banner a{
+  text-decoration: none;
+  color: #ffffff
+}
+
+
+.Banner {
+  margin-top: 150px;
+  min-height: 500px;
+  background:url('../image/IMG_0026.JPG');
+  background-size: cover;
+  text-align: center;
+}
+
+.Banner h1{
+  font-size: 80px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  padding: 30px;
+}
+
+.Banner h2{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  border: #ffffff 5px solid;
+  margin: 15px 25%;
+  padding: 3%;
+}
+
+.Find_Us {
+  background-color: #0B5345;
+  margin: 5px;
+  padding: 10px 0px;
+}
+
+.Find_Us h1{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  color: #0B5345;
+  border: #ffffff 5px solid;
+  background-color: #ffffff;
+  margin-top: ;
+  border-radius: 5px;
+  margin: 5px 25%;
+}
+
+.Find_Us h2{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff
+}
+.Find_Us a{
+  color: #ffffff
+}
+.SizesPrices{
+  background-color: #0B5345;
+  margin: 0px 10px;
+}
+
+.SizesPrices h1{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  background-color: #0B5345;
+  border: #ffffff 5px solid;
+  color: #ffffff;
+}
+.SizesPrices table{
+  margin: 0px 10%;
+  padding: 0px;
+}
+
+.SizesPrices td{
+  margin: 10px 20%;
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  border: #ffffff 2px solid;
+  text-align: center;
+}
+.SizesPrices thead{
+  color: #0B5345;
+  background-color: #ffffff
+}
+
+.SizesPrices tbody{
+  color: #fff;
+  margin-bottom: 10%;
+}
+
+.Contact_Us {
+  text-align: center
+}
+.Contact_Us h2{
+  font-size: 50px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  border: #0B5345 3px solid;
+  margin: 10px 30%;
+  border-radius: 10px;
+  background-color: #0B5345;
+  color: #ffffff
+}
+
+.Contact_Us h3{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  border: #0B5345 3px solid;
+  margin: 10px 30%;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #0B5345;
+}
+.Contact_Us a{
+  color: #0B5345;
+}
